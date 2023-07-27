@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "publish": "lerna publish",
+    "version": "lerna version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
