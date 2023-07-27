@@ -1,0 +1,31 @@
+{
+  "name": "a1",
+  "version": "1.0.0",
+  "description": "123",
+  "keywords": [
+    "a1"
+  ],
+  "author": "wujie <wujie@antiy.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/a1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "peerDependencies": {
+    "lodash": "^4.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "react": "16"
+  }
+}
