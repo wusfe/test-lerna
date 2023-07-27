@@ -16,16 +16,10 @@
   "files": [
     "lib"
   ],
-  "peerDependencies": {
-    "lodash": "^4.0.0"
-  },
   "publishConfig": {
     "registry": "https://registry.npmmirror.com/"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "dependencies": {
-    "react": "16"
   }
 }
